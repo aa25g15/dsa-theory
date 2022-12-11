@@ -6,6 +6,7 @@
   * Naturally, root is the smallest element
 * Max heap - Every child is smaller or equal to its parent
   * Naturally, root is the largest element
+* It is a complete tree - all elements are leftmost
   
 #### Time Complexity of Basic Operations
 ![heap operations complexity](heap-operations-complexity.png)
