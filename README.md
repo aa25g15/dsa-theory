@@ -29,7 +29,7 @@ PriorityQueue<Integer> minHeap = new PrioirtyQueue<>();
 ```
 Max Heap: --> to keep the max element always on top, the same order as above.
 ```java
-PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Comparator.reverse());
+PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Comparator.reverseOrder());
 ```
 Which is the same as ```java(Integer o1, Integer o2) -> Integer.compare(o2, o1) or - Integer.compare(o1, o2)```.
 
