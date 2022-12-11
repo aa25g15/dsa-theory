@@ -18,5 +18,5 @@
 * A practical application of heap, basically it is just a heap, the highest priority element is at the root
 
 ### Time Complexity of Basic Operations
-![heap operations complexity](heap-operations-complexity.png)
+![priority queue operations complexity](priority-queue-operations-complexity.png)
 
