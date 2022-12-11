@@ -7,3 +7,4 @@
   * Naturally, root is the largest element
   
 ### Time Complexity of Basic Operations
+![heap operations complexity](heap-operations-complexity.png)
