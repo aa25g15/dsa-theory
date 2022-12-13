@@ -43,9 +43,9 @@ And you can use:
 * Like playing cards stacked on top of each other
 * First In Last Out (FILO)
 * Methods
- * Peek
- * Push
- * Pop
+  * Peek
+  * Push
+  * Pop
 
 ```java
 Stack<Integer> stack = new Stack<>();
