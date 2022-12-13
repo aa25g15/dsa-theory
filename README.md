@@ -39,3 +39,14 @@ And you can use:
 * remove --> to get and remove the min/max. O(log n)
 * peek --> to get, but not remove the min/max. O(1)
 
+## Stacks
+* Like playing cards stacked on top of each other
+* First In Last Out (FILO)
+* Methods
+ * Peek
+ * Push
+ * Pop
+
+```java
+Stack<Integer> stack = new Stack<>();
+```
