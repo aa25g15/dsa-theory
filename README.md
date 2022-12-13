@@ -50,3 +50,12 @@ And you can use:
 ```java
 Stack<Integer> stack = new Stack<>();
 ```
+
+## Brute Force Approach
+When you try out all possible solutions and pick the ones that are suitable.
+
+### Backtracking
+* The solution tree is created using DFS (Depth First Search)
+
+### Branch and Bound
+* The solution tree is generated using BFS (Breadth First Search) or level order traversal
