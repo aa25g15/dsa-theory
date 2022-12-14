@@ -52,7 +52,8 @@ Stack<Integer> stack = new Stack<>();
 ```
 
 ## Brute Force Approach
-When you try out all possible solutions and pick the ones that are suitable.
+* When you try out all possible solutions and pick the ones that are suitable.
+* Used to solve problems with multiple possible solutions and you want to make a list or collection of those solutions
 
 ### Backtracking
 * The solution tree is created using DFS (Depth First Search)
