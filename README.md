@@ -60,3 +60,19 @@ Stack<Integer> stack = new Stack<>();
 
 ### Branch and Bound
 * The solution tree is generated using BFS (Breadth First Search) or level order traversal
+
+## Greedy Approach
+* Used to solve min/max or optimization problems subject to some constraints
+* There is ofcourse only 1 optimal solution but there could be many feasible solutions
+* The problem is solved in stages by eliminating feasible candidates based on some filtering criteria
+
+Imagine a hiring process:
+Talent pool - 1000
+1. Stage 1 - HR call - 600 candidates passed
+2. Stage 2 - Technical assessment 1 - 300 candidates passed
+3. Stage 3 - Technical assessment 2 - 50 candidates passed
+4. Stage 4 - Domain knowledge and resume round - 10 candidates passed
+5. Stage 5 - Product sense round - 1 candidate passed
+1 optimal candidate hired!
+
+This is a greedy process.
